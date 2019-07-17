@@ -1,0 +1,4 @@
+react-native init myApp -> inicializa o projeto
+react-native run-ios -> Roda o aplicativo
+react-native run-android -> Roda o aplicativo
+
